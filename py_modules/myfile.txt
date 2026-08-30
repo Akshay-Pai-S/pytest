@@ -1,0 +1,4 @@
+user    city        email
+Jake    Bengaluru   jake@mymail.com
+Lucas   Mumbai      lucas@mymail.com
+Aman    Chennai     aman@mymail.com
